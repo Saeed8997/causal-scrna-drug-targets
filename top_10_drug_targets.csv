@@ -1,0 +1,11 @@
+Gene,Causing_Others (Out-Degree),Affected_By_Others (In-Degree),Centrality_Score
+MRPL42,8,2,0.0025
+ATXN1L,7,0,0.0
+NAPA-AS1,7,0,0.0
+BACE2,6,0,0.0
+FAM210B,5,2,0.0042
+MTRF1,5,0,0.0
+ABCC10,4,3,0.0084
+TADA2A,4,2,0.0039
+DPH6,4,2,0.0035
+ZNF747,4,2,0.0014
